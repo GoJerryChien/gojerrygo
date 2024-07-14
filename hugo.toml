@@ -1,0 +1,5 @@
+baseURL = 'https://GoJerryChien.github.io/gojerrygo/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+theme = 'hugo-initio'
