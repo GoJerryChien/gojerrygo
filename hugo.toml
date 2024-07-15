@@ -39,6 +39,11 @@ theme = 'hugo-initio'
     url = "/note/"
     weight = 5
 
+[[menu.main]]
+    name = "Tech Documents"
+    url = "/doc/"
+    weight = 10
+
 [params.disqus]
     site = "hugo-initio-site.disqus.com"
 
