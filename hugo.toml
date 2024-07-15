@@ -34,15 +34,23 @@ theme = 'hugo-initio'
     name = "home"
     url = "/"
     weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
 [[menu.main]]
     name = "blog"
     url = "/note/"
     weight = 5
 
 [[menu.main]]
-    name = "Tech Documents"
+    name = "GO"
     url = "/doc/"
     weight = 10
+
+
 
 [params.disqus]
     site = "hugo-initio-site.disqus.com"
